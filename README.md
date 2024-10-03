@@ -1,3 +1,1 @@
-# ixpanteria.github.io
-
-Organization-wide website
+Learners's blog.
